@@ -41,7 +41,7 @@ I’m currently building my portfolio through hands-on projects in:
 
 ## 📈 Current Projects
 
-- 📊 Perosnal Expenses Tracker  
+- 📊 Personal Expenses Tracker  
 - 🎵 Apple Music Wrapped-style Data Analysis  
 - 📉 Business Intelligence Dashboards (Power BI)  
 - 🌐 Expanding a multi-page website using Bootstrap, Flask & Node.js  
